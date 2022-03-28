@@ -1,4 +1,4 @@
-/******************************************************************************
+  /******************************************************************************
  * Copyright (C) 2017 by Alex Fosdick - University of Colorado
  *
  * Redistribution, modification or use of this software in source or binary
@@ -10,7 +10,7 @@
  *****************************************************************************/
 /**
  * @file <Add File Name> 
- * @brief <Add Brief Description Here >
+ * @brief <First branch on GIT >
  *
  * <Add Extended Description Here>
  *
