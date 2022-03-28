@@ -9,13 +9,13 @@
  *
  *****************************************************************************/
 /**
- * @file <Add File Name> 
- * @brief <First branch on GIT >
+ * @file <> 
+ * @brief <Second branch on GIT >
  *
  * <Add Extended Description Here>
  *
- * @author <Add FirsName LastName>
- * @date <Add date >
+ * @author <Jesus Tapia>
+ * @date <27/03/2022 >
  *
  */
 #ifndef __STATS_H__
@@ -30,7 +30,7 @@ unsigned int find_mean(unsigned int *p);
 unsigned int find_maximun(unsigned int *p);
 unsigned int find_minimun(unsigned int *p);
 unsigned int find_median(unsigned int *p);
-unsigned int print_statistics(unsigned int mean,unsigned int maximun, unsigned int minimun,unsigned int median);
+unsigned int print_statistics(unsigned int mean,unsigned int maximun, unsigned int minimun,unsigned int median);// This function just use printf  
 void sort_array(int n, unsigned int* ptr);
 
 
